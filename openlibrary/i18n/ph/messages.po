@@ -1189,6 +1189,10 @@ msgstr "Ukrainiano"
 msgid "Chinese"
 msgstr "Tsino"
 
+#: openlibrary/plugins/openlibrary/code.py
+msgid "Filipino"
+msgstr "Filipino"
+
 #: openlibrary/plugins/openlibrary/home.py
 msgid "Art"
 msgstr "Sining"

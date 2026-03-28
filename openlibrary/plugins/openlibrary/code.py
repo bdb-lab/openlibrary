@@ -1263,6 +1263,7 @@ def setup_template_globals():
             "te": {"code": "te", "localized": _('Telugu'), "native": "తెలుగు"},
             "uk": {"code": "uk", "localized": _('Ukrainian'), "native": "Українська"},
             "zh": {"code": "zh", "localized": _('Chinese'), "native": "中文"},
+            "ph": {"code": "ph", "localized": _('Filipino'), "native": "Filipino"},
         }
 
     web.template.Template.globals.update(
