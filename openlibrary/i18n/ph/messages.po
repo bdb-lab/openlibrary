@@ -7725,7 +7725,7 @@ msgstr "Pamagat ng Trabaho (beta: Para lamang sa Librarian)"
 #: search/sort_options.html
 msgid "Sorting by"
 msgstr "Naka-uri ayon sa"
-  
+
 #: search/sort_options.html
 msgid "Shuffle"
 msgstr "Shuffle"
