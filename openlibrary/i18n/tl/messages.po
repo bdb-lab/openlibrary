@@ -1133,8 +1133,6 @@ msgstr "Open Library"
 msgid "Trending Books"
 msgstr "Umangat na Mga Aklat"
 
-#: home/index.html openlibrary/plugins/openlibrary
-
 #: openlibrary/plugins/openlibrary/code.py
 msgid "Arabic"
 msgstr "Arabo"
