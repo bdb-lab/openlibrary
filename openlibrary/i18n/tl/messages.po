@@ -7623,7 +7623,7 @@ msgstr[1] "Tungkol sa %(count)s mga resulta ang natagpuan"
 #, python-format
 msgid "in %(seconds)s second"
 msgid_plural "in %(seconds)s seconds"
-msgstr[0 "sa %(seconds)s segundo"
+msgstr[0] "sa %(seconds)s segundo"
 msgstr[1] "sa %(seconds)s mga segundo"
 
 #: search/layout_options.html
