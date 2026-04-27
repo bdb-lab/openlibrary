@@ -5034,6 +5034,9 @@ msgstr "Mga libro para sa mga taong hindi nagbabasa ng nakalimbag?"
 msgid ""
 "The <a href=\"//archive.org\">Internet Archive</a> is proud to be "
 "distributing over 1 million books free in a format called DAISY
+msgstr ""
+"Ang <a href=\"//archive.org\">Internet Archive</a> ay ipinagmamalaki na "
+"namamahagi ng higit sa 1 milyong mga aklat nang libre sa isang format na tinatawag na DAISY."
 
 #: books/daisy.html
 msgid ""
